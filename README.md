@@ -1,7 +1,7 @@
 # Financial-Statements-Analysis
 
 ## Overview
-This project analyzes financial statements (2009-2023) for tech giants (e.g., AAPL, AMZN, MSFT) to assess profitability, liquidity, and cash flow risks. It includes a Tableau dashboard and Jupyter notebook for data processing and visualization.
+This project analyzes financial statements (2009-2023) for tech giants (e.g., AAPL, AMZN, MSFT) to assess profitability, liquidity, and cash flow risks. It includes a Tableau dashboard and Python for data processing and visualization.
 
 ![Dashboard Overview](Images/Dashboard.png)
 *AAPL's ROI peaked +66% in 2022, while AMZN shows cash flow risks, guiding risk assessment strategies.*
