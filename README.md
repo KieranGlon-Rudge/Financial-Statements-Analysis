@@ -17,10 +17,7 @@ This project analyzes financial statements (2009-2023) for tech giants (e.g., AA
 *ROI fluctuations highlight investment risks, supporting targeted financial strategies.*
 
 ## How to Run
-1. Clone the repo: `git clone https://github.com/yourusername/Financial-Statements-Analysis.git`
-2. Create and activate a virtual environment:
-   - `python -m venv financial_analysis_env`
-   - `source financial_analysis_env/bin/activate` (Windows: `financial_analysis_env\Scripts\activate`)
+1. Clone the repo: `git clone (https://github.com/KieranGlon-Rudge/Financial-Statements-Analysis)`
 3. Install dependencies: `pip install -r requirements.txt`
 4. Ensure `Financial_Statements.csv` is in the repo root or uploaded to Google Sheets for Tableau.
 5. Run: `jupyter notebook Financial_Statements_Analysis.ipynb`
